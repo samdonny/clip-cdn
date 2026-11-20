@@ -1,0 +1,7 @@
+# Public media only. Never commit secrets or credentials.
+*
+!*/
+!*.mp4
+!README.md
+!.gitignore
+!.gitattributes
